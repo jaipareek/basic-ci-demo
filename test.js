@@ -1,3 +1,4 @@
+// CI test - second commit
 const add = require("./app");
 
 if (add(2, 3) !== 5) {
