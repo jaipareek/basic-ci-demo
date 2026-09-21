@@ -1,0 +1,8 @@
+{
+  "name": "basic-ci-demo",
+  "version": "1.0.0",
+  "description": "Basic CI workflow using GitHub Actions",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
